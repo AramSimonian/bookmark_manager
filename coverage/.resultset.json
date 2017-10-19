@@ -1,6 +1,15 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/aramsimonian/week4/bookmark_manager/spec/features/add_tag_to_link_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
       "/Users/aramsimonian/week4/bookmark_manager/spec/features/creating_links_spec.rb": [
         1,
         1,
@@ -24,6 +33,6 @@
         null
       ]
     },
-    "timestamp": 1508341613
+    "timestamp": 1508423174
   }
 }
