@@ -7,6 +7,7 @@ require 'simplecov'
 require 'simplecov-console'
 require './app/app'
 require_relative './features/web_helper'
+require './app/data_mapper_setup'
 require 'database_cleaner'
 
 Capybara.app = BookmarkManager
